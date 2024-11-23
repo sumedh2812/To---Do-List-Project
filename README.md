@@ -1,2 +1,2 @@
-# to-do-list.github.io
-To-do list website
+# To-do-list
+This is simple To-do list project website.
